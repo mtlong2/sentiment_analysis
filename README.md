@@ -1,2 +1,2 @@
 # sentiment_detection
-neural networks to analyze sentiment data
+models to analyze sentiment data
